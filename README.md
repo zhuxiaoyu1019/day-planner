@@ -37,3 +37,4 @@ THEN the saved events persist
 
 ## Link to Deployed Application
 
+[Day Scheduler](https://zhuxiaoyu1019.github.io/day-planner/)
